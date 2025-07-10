@@ -29,5 +29,5 @@ No external libraries are required.
 
 1. **Clone the repository or copy the script:**
    ```bash
-   git clone https://github.com/your-username/shutdown-app.git
+   git clone https://github.com/Chirag037/shutdown-opearting-system
    cd shutdown-app
