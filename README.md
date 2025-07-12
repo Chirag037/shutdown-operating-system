@@ -4,7 +4,7 @@ A simple desktop application built with Python and Tkinter that allows users to 
 
 ---
 
-## 🖥️ Features
+## 🖥️ Features  
 
 - ✅ Clean and user-friendly graphical interface
 - ✅ Works on Windows, Linux, and macOS
