@@ -16,7 +16,7 @@ A simple desktop application built with Python and Tkinter that allows users to 
 ## 📦 Requirements
 
 - Python 3.x
-- Standard libraries only:
+- Standard libraries only:  
   - `tkinter`
   - `os`
   - `platform`
